@@ -63,6 +63,8 @@ You need to implement the `UITableView` delegate methods as normal, but you can 
 }
 ```
 
+There's also a helpful utility class called `PKHUtilities` that includes a class method to easily create a reusable date formatter.
+
 ## License
 
 The MIT License (MIT)
